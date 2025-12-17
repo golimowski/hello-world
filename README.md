@@ -4,3 +4,4 @@ repozytorium szkoleniowe
 Hej!
 
 Cwicze GitHub'a.
+Drugi raz.
